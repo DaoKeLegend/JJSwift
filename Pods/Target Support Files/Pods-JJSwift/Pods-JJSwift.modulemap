@@ -1,0 +1,6 @@
+framework module Pods_JJSwift {
+  umbrella header "Pods-JJSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
